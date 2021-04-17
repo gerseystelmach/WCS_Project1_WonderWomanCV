@@ -1,5 +1,5 @@
 # WCS_Project1_WonderWomanCV
-Solution presented for the 1st project proposed by Wild Code School in the first month of Web Development course, using HTML, CSS and PHP.
+Solution presented for the 1st project proposed by Wild Code School in the first month of Web Development course, using HTML, CSS and some PHP.
 
 **1 - How to visualize the project:**
 
